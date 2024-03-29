@@ -1,1 +1,2 @@
 # deepu_product_review.github.io
+The webpage presents a product review with details such as the product image, name, description, price, time left for purchase, and creator information. The styling focuses on creating a visually appealing layout with dark backgrounds, white text, and contrasting accent colors. The design aims for simplicity and clarity, making it easy for users to understand the product information and creator details.
